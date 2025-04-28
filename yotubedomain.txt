@@ -1,0 +1,11 @@
+youtube.com
+www.youtube.com
+m.youtube.com
+ytimg.com
+googlevideo.com
+youtubei.googleapis.com
+youtube.googleapis.com
+i.ytimg.com
+s.ytimg.com
+manifest.googlevideo.com
+redirector.googlevideo.com
